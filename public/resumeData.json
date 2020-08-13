@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Experience with these technologies",
     "education":[
       {
         "school":"UCSD",
@@ -58,93 +58,109 @@
       {
         "company":"Core Power Yoga",
         "title":"Assistant Manager",
-        "years":"March 2010 - Present",
+        "years":"2017-2019",
         "description":"Implemented office/studio procedures, supervised projects, preparing reports, payroll, handling phone calls and correspondence, maintaining a good relationship with customers, and organizing the overall flow of the, students, teachers, studio and office."
       }
     ],
     "skills":[
       {
-        "name":"Git"
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"MVC",
+        "level":"80%"
+      },
+      {
+        "name":"Postman",
+        "level":"80%"
+      },
+      {
+        "name":"Web, Third-Party, and Dom APIs",
+        "level":"80%"
         
       },
       {
-        "name":"Javascript"
+        "name":"Async/Await",
+        "level":"80%"
+      },
+      {
+        "name":"Sequelize",
+        "level":"80%"
+      },
+      {
+        "name":"Express",
+        "level":"80%"
+      },
+      {
+        "name":"NoSQL",
+        "level":"80%"
+      },
+      {
+        "name":"Inquirer",
+        "level":"80%"
+      },
+      {
+        "name":"Object Relational Mapping",
+        "level":"80%"
+      },
+      {
+        "name":"IndexedDB",
+        "level":"80%"
+      },
+      {
+        "name":"PWAs",
+        "level":"80%"
+      },
+      {
+        "name":"Robo 3T",
+        "level":"80%"
         
       },
       {
-        "name":"ReactJs"
-        
+        "name":"Handlebars.js",
+        "level":"80%"
       },
       {
-        "name":"CSS"
+        "name":"Test Driven Development",
+        "level":"80%"
       },
       {
-        "name":"HTML5"
+        "name":"Heroku",
+        "level":"80%"
       },
       {
-        "name":"VueJs"
+        "name":"JSON",
+        "level":"80%"
       },
       {
-        "name":"MongoDB"
-      },
-      {
-        "name":"MVC"
-        
-      },
-      {
-        "name":"Postman"
-        
-      },
-      {
-        "name":"Web, Third-Party, and Dom APIs"
-        
-      },
-      {
-        "name":"Async/Await"
-      },
-      {
-        "name":"Sequelize"
-      },
-      {
-        "name":"Express"
-      },
-      {
-        "name":"NoSQL"
-      },
-      {
-        "name":"Inquirer"
-      },
-      {
-        "name":"Object Relational Mapping"
-      },
-      {
-        "name":"IndexedDB"
-      },
-      {
-        "name":"PWAs"
-        
-      },
-      {
-        "name":"Robo 3T"
-        
-      },
-      {
-        "name":"Handlebars.js"
-        
-      },
-      {
-        "name":"Test Driven Development"
-      },
-      {
-        "name":"Heroku"
-      },
-      {
-        "name":"JSON"
-      },
-      {
-        "name":"jQuery"
-      },
-      
+        "name":"jQuery",
+        "level":"80%"
+      }
     ]
   },
   "portfolio":{
@@ -171,7 +187,7 @@
         "title":"Express Notes",
         "category":"An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-notes.png",
-        "url":"https://github.com/Q118/express_notes",
+        "url":"https://github.com/Q118/express_notes"
       },
       {
         "title":"The Binge Guide",
@@ -183,19 +199,7 @@
         "title":"Team Generator",
         "category":"A software engineering team generator command line application.",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-team.png",
-        "url":"https://drive.google.com/file/d/1oGTPfY48Eh2v8fNCgkJCYh1bNdhxjVtA/view" ,
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "url":"https://drive.google.com/file/d/1oGTPfY48Eh2v8fNCgkJCYh1bNdhxjVtA/view"
       }
     ]
   }
