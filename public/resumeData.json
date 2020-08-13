@@ -150,34 +150,40 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Marvel Match",
+        "category":"Quiz to find your perfect match from the Marvel characters",
+        "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-marvel.png",
+        "url":"https://jessicablank.github.io/marvel-match/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Handlebar Rolls",
+        "category":"A sushi logger with MySQL, Node, Express, Handlebars and a homemade ORM following the MVC design pattern with Node and MySQL.",
+        "image":"https://q118.github.io/shelby_rothman/Assets/sushiappscreenshot.png",
+        "url":"https://glacial-retreat-09046.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"MySQL Employee Tracker",
+        "category":"A solution for managing a company's employees using node, inquirer, and MySQL.",
+        "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-employee.png",
+        "url":"https://drive.google.com/file/d/1Iru-Px6gEk6ULrZUJ_PIkW9bPw4xNsJa/view"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Express Notes",
+        "category":"An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
+        "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-notes.png",
+        "url":"https://github.com/Q118/express_notes",
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"The Binge Guide",
+        "category":"An full-stack web application for a user to sign in and search for shows and save information on how & where to watch them",
+        "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-jmsj.png",
+        "url":"https://jmsj2.herokuapp.com/"
+      },
+      {
+        "title":"Team Generator",
+        "category":"A software engineering team generator command line application.",
+        "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-team.png",
+        "url":"https://drive.google.com/file/d/1oGTPfY48Eh2v8fNCgkJCYh1bNdhxjVtA/view" ,
       }
     ]
   },
