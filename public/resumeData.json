@@ -168,7 +168,7 @@
         "title":"Marvel Match",
         "category":"Quiz to find your perfect match from the Marvel characters",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-marvel.png",
-        "url":"https://jessicablank.github.io/marvel-match/"
+        "url":"https://q118.github.io/marvel-match/"
       },
       {
         "title":"Handlebar Rolls",
@@ -178,7 +178,7 @@
       },
       {
         "title":"MySQL Employee Tracker",
-        "category":"A solution for managing a company's employees using node, inquirer, and MySQL.",
+        "category":"A Command Line Interface Application used as a solution for managing a company's employees using node, inquirer, and MySQL.",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-employee.png",
         "url":"https://drive.google.com/file/d/1Iru-Px6gEk6ULrZUJ_PIkW9bPw4xNsJa/view"
       },
@@ -190,7 +190,7 @@
       },
       {
         "title":"The Binge Guide",
-        "category":"An full-stack web application for a user to sign in and search for shows and save information on how & where to watch them",
+        "category":"A full-stack web application for a user to sign in and search for shows and save information on how & where to watch them",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-jmsj.png",
         "url":"https://jmsj2.herokuapp.com/"
       },
@@ -199,6 +199,18 @@
         "category":"A software engineering team generator command line application.",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-team.png",
         "url":"https://drive.google.com/file/d/1oGTPfY48Eh2v8fNCgkJCYh1bNdhxjVtA/view"
+      },
+      {
+        "title":"Budget Optimizer",
+        "category":"A Budget Tracker application that allows for offline access and functionality.",
+        "image":"https://github.com/Q118/budget.optimizer/raw/master/screenshot.png",
+        "url":"https://safe-atoll-46825.herokuapp.com/"
+      },
+      {
+        "title":"Exertion Tracker",
+        "category":"A workout tracker that uses Mongo database with a Mongoose schema and handle routes with Express.",
+        "image":"https://github.com/Q118/exertion.tracker/raw/master/screenshot.png",
+        "url":"https://exertion.herokuapp.com/"
       }
     ]
   }
