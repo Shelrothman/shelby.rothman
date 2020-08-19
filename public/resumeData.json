@@ -159,6 +159,43 @@
       {
         "name":"jQuery",
         "level":"80%"
+      },
+        {
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"AJAX",
+        "level":"80%"
+      },
+      {
+        "name":"GitHub",
+        "level":"80%"
+      },
+      {
+        "name":"Visual Studio Code",
+        "level":"80%"
+        
+      },
+      {
+        "name":"mySQL",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"Mongoose",
+        "level":"80%"
+      },
+      {
+        "name":"Algorithms",
+        "level":"80%"
+      },
+      {
+        "name":"Data Structures",
+        "level":"80%"
       }
     ]
   },
