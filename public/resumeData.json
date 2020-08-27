@@ -202,6 +202,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"GeoQuiz",
+        "category":"A full-stack MERN application that allows users to test their geography skills.",
+        "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-marvel.png",
+        "url":"https://geo1quiz.herokuapp.com/signup"
+      },
+      {
         "title":"Marvel Match",
         "category":"Quiz to find your perfect match from the Marvel characters",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-marvel.png",
