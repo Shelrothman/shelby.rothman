@@ -1,6 +1,7 @@
 /** @format */
 
 import React, { Component } from "react";
+import "./Portfolio.css"
 
 class Portfolio extends Component {
 	render() {
@@ -15,7 +16,7 @@ class Portfolio extends Component {
 								target="_blank"
 								title={projects.title}
 								rel="noopener noreferrer">
-								<img alt={projects.title} src={projectImage} />
+                <img alt={projects.title} src={projectImage} />
 								<div className="overlay">
 									<div className="portfolio-item-meta">
 										<h5>{projects.title}</h5>
@@ -28,7 +29,7 @@ class Portfolio extends Component {
 							</a>
 						</div>
 						<br />
-						<a target="_blank" href={projects.repo} rel="noopener noreferrer">
+						<a className="repo-link" target="_blank" href={projects.repo} rel="noopener noreferrer">
 							View Project Repo
 						</a>
 					</div>

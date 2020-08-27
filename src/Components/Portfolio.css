@@ -1,0 +1,19 @@
+.repo-link {
+    border-color: blue;
+    border-width: 2px;
+    border-style: groove;
+    padding: 4px;
+    background-color: black;
+}
+
+.item-wrap {
+    border-color: blue;
+    border-width: 2px;
+    border-style: groove;
+    padding: 4px;
+   
+}
+
+.repo-link:hover {
+    background: #3cc16e;
+}

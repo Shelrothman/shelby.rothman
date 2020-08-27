@@ -212,49 +212,57 @@
         "title":"Marvel Match",
         "category":"Quiz to find your perfect match from the Marvel characters",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-marvel.png",
-        "url":"https://q118.github.io/marvel-match/"
+        "url":"https://q118.github.io/marvel-match/",
+        "repo":"https://github.com/Q118/marvel-match"
       },
       {
         "title":"Handlebar Rolls",
         "category":"A sushi logger with MySQL, Node, Express, Handlebars and a homemade ORM following the MVC design pattern with Node and MySQL.",
         "image":"https://q118.github.io/shelby_rothman/Assets/sushiappscreenshot.png",
-        "url":"https://glacial-retreat-09046.herokuapp.com/"
+        "url":"https://glacial-retreat-09046.herokuapp.com/",
+        "repo":"https://github.com/Q118/handlebar_rolls"
       },
       {
         "title":"MySQL Employee Tracker",
         "category":"A Command Line Interface Application used as a solution for managing a company's employees using node, inquirer, and MySQL.",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-employee.png",
-        "url":"https://drive.google.com/file/d/1Iru-Px6gEk6ULrZUJ_PIkW9bPw4xNsJa/view"
+        "url":"https://drive.google.com/file/d/1Iru-Px6gEk6ULrZUJ_PIkW9bPw4xNsJa/view",
+        "repo":"https://github.com/Q118/track_mysql_employees"
       },
       {
         "title":"Express Notes",
         "category":"An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-notes.png",
-        "url":"https://github.com/Q118/express_notes"
+        "url":"https://afternoon-refuge-25189.herokuapp.com/",
+        "repo": "https://github.com/Q118/express_notes"
       },
       {
         "title":"The Binge Guide",
         "category":"A full-stack web application for a user to sign in and search for shows and save information on how & where to watch them",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-jmsj.png",
-        "url":"https://jmsj2.herokuapp.com/"
+        "url":"https://jmsj2.herokuapp.com/",
+        "repo":"https://github.com/Q118/jmsj"
       },
       {
         "title":"Team Generator",
         "category":"A software engineering team generator command line application.",
         "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-team.png",
-        "url":"https://drive.google.com/file/d/1oGTPfY48Eh2v8fNCgkJCYh1bNdhxjVtA/view"
+        "url":"https://drive.google.com/file/d/1oGTPfY48Eh2v8fNCgkJCYh1bNdhxjVtA/view",
+        "repo":"https://github.com/Q118/generation_team"
       },
       {
         "title":"Budget Optimizer",
         "category":"A Budget Tracker application that allows for offline access and functionality.",
         "image":"https://github.com/Q118/budget.optimizer/raw/master/screenshot.png",
-        "url":"https://safe-atoll-46825.herokuapp.com/"
+        "url":"https://safe-atoll-46825.herokuapp.com/",
+        "repo":"https://github.com/Q118/budget.optimizer"
       },
       {
         "title":"Exertion Tracker",
         "category":"A workout tracker that uses Mongo database with a Mongoose schema and handle routes with Express.",
         "image":"https://github.com/Q118/exertion.tracker/raw/master/screenshot.png",
-        "url":"https://exertion.herokuapp.com/"
+        "url":"https://exertion.herokuapp.com/",
+        "repo":"https://github.com/Q118/exertion.tracker"
       }
     ]
   }
