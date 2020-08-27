@@ -204,8 +204,9 @@
       {
         "title":"GeoQuiz",
         "category":"A full-stack MERN application that allows users to test their geography skills.",
-        "image":"https://q118.github.io/shelby_rothman/Assets/screenshot-marvel.png",
-        "url":"https://geo1quiz.herokuapp.com/signup"
+        "image":"https://github.com/Q118/shelby.anne/blob/master/Screen%20Shot%202020-08-27%20at%2011.23.29%20AM.png?raw=true",
+        "url":"https://geo1quiz.herokuapp.com/signup",
+        "repo":"https://github.com/Q118/geoquiz"
       },
       {
         "title":"Marvel Match",
