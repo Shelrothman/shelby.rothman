@@ -3,7 +3,7 @@
     "name":"Shelby Anne Rothman",
     "occupation":"Full Stack Web Developer",
     "image":"https://github.com/Q118/shelby_rothman/blob/master/Assets/cartoon-shelby.png?raw=true",
-    "bio":"I come from a background of Cultural Theory and design. I am curious, open-minded, empathetic, and dedicated to continuous learning. I am Effectual at integrating creativity, problem solving, and attention to detail to develop clean code and user-friendly applications. I am sharply intelligent, flexible, and a team-player with great communication skills. My interests outside of computer programming and web development are art, yoga, dogs, music, skateboarding, and graphic novels.",
+    "bio":"Freshly educated Full Stack Web Developer looking for a great career opportunity to join a strong team of developers that would benefit from an intelligent, creative, and passionate individual like myself. I come from an educational background in Cultural Theory and Design. I excel at integrating creativity with analytical problem solving to develop clean code and user-friendly applications.",
     "contactmessage":"Please contact me for more information",
     "email": "shelbyfish91@gmail.com",
     "phone": "619-797-7156",
@@ -58,144 +58,36 @@
         "company":"Core Power Yoga",
         "title":"Assistant Manager",
         "years":"2017-2019",
-        "description":"Implemented office/studio procedures, supervised projects, preparing reports, payroll, handling phone calls and correspondence, maintaining a good relationship with customers, and organizing the overall flow of the, students, teachers, studio and office."
+        "description":"Supervised projects, prepared reports, payroll, handled phone calls and correspondence, as well as went above and beyond to ensure customer happiness, safety, and well-being. Led and organized events that increased membership across the region, while simultaneously teaching a full class load; I taught over 1000 classes in two years."
       }
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"Git | Javascript | React | CSS | HTML5 | VueJs | MongoDB | MVC",
         "level":"80%"
       },
       {
-        "name":"Javascript",
+        "name":"Postman | Web APIs | Async/Await | Sequelize | Express | NoSQL ",
         "level":"80%"
       },
       {
-        "name":"ReactJs",
+        "name":"Inquirer | ORM | IndexedDB | PWAs | Robo 3T | Handlebars",
         "level":"80%"
       },
       {
-        "name":"CSS",
-        "level":"80%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"80%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      },
-      {
-        "name":"MVC",
-        "level":"80%"
-      },
-      {
-        "name":"Postman",
-        "level":"80%"
-      },
-      {
-        "name":"Web, Third-Party, and Dom APIs",
+        "name":"Third-Party APIs | TDD | Heroku | JSON | jQuery | Bootstrap",
         "level":"80%"
         
       },
       {
-        "name":"Async/Await",
-        "level":"80%"
-      },
-      {
-        "name":"Sequelize",
-        "level":"80%"
-      },
-      {
-        "name":"Express",
-        "level":"80%"
-      },
-      {
-        "name":"NoSQL",
-        "level":"80%"
-      },
-      {
-        "name":"Inquirer",
-        "level":"80%"
-      },
-      {
-        "name":"Object Relational Mapping",
-        "level":"80%"
-      },
-      {
-        "name":"IndexedDB",
-        "level":"80%"
-      },
-      {
-        "name":"PWAs",
-        "level":"80%"
-      },
-      {
-        "name":"Robo 3T",
+        "name":"AJAX | GitHub | Git | mySQL | Dom APIs | Node | Mongoose",
         "level":"80%"
         
       },
       {
-        "name":"Handlebars.js",
-        "level":"80%"
-      },
-      {
-        "name":"Test Driven Development",
-        "level":"80%"
-      },
-      {
-        "name":"Heroku",
-        "level":"80%"
-      },
-      {
-        "name":"JSON",
-        "level":"80%"
-      },
-      {
-        "name":"jQuery",
-        "level":"80%"
-      },
-        {
-        "name":"Bootstrap",
-        "level":"80%"
-      },
-      {
-        "name":"AJAX",
-        "level":"80%"
-      },
-      {
-        "name":"GitHub",
-        "level":"80%"
-      },
-      {
-        "name":"Visual Studio Code",
+        "name":"Visual Studio Code | Algorithms | Data Structures | Java ",
         "level":"80%"
         
-      },
-      {
-        "name":"mySQL",
-        "level":"80%"
-      },
-      {
-        "name":"Node.js",
-        "level":"80%"
-      },
-      {
-        "name":"Mongoose",
-        "level":"80%"
-      },
-      {
-        "name":"Algorithms",
-        "level":"80%"
-      },
-      {
-        "name":"Data Structures",
-        "level":"80%"
       }
     ]
   },

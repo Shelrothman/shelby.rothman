@@ -27,11 +27,11 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p><h3 style={{ color: 'white' }}>{bio}</h3></p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
-                  <p className="address">
+                  <p style={{ color: 'white' }} className="address">
 						   <span>{name}</span><br />
 						   <span>{street}<br />
 						         {city} {state}, {zip}
