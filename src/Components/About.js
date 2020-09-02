@@ -25,7 +25,7 @@ class About extends Component {
             <Image height= {250} width= {250} className="profile-pic" src={profilepic} alt="Shelby Profile Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
+            <h1 style={{ color: 'white' }}>About Me</h1>
 
             <p><h3 style={{ color: 'white' }}>{bio}</h3></p>
             <div className="row">
