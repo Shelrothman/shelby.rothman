@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shelby.rothman/static/css/main.0e84ff9e.chunk.css",
+    "main.js": "/shelby.rothman/static/js/main.e95c66ed.chunk.js",
+    "main.js.map": "/shelby.rothman/static/js/main.e95c66ed.chunk.js.map",
+    "runtime-main.js": "/shelby.rothman/static/js/runtime-main.ee11d2a6.js",
+    "runtime-main.js.map": "/shelby.rothman/static/js/runtime-main.ee11d2a6.js.map",
+    "static/js/2.f5c5743e.chunk.js": "/shelby.rothman/static/js/2.f5c5743e.chunk.js",
+    "static/js/2.f5c5743e.chunk.js.map": "/shelby.rothman/static/js/2.f5c5743e.chunk.js.map",
+    "index.html": "/shelby.rothman/index.html",
+    "precache-manifest.cb333140803b18928badb7ffc66a4cb1.js": "/shelby.rothman/precache-manifest.cb333140803b18928badb7ffc66a4cb1.js",
+    "service-worker.js": "/shelby.rothman/service-worker.js",
+    "static/css/main.0e84ff9e.chunk.css.map": "/shelby.rothman/static/css/main.0e84ff9e.chunk.css.map",
+    "static/js/2.f5c5743e.chunk.js.LICENSE.txt": "/shelby.rothman/static/js/2.f5c5743e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee11d2a6.js",
+    "static/js/2.f5c5743e.chunk.js",
+    "static/css/main.0e84ff9e.chunk.css",
+    "static/js/main.e95c66ed.chunk.js"
+  ]
+}
